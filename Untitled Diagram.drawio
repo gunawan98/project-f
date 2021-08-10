@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T04:11:49.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="IaagV5z5qN1kffSRGP0Q" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T04:13:31.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="DJ7n8P2ZokfeDXJ00Pyg" version="14.9.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -160,7 +160,7 @@
           <mxGeometry x="1129" y="152" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-70" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="45" width="36" height="10" as="geometry" />
+          <mxGeometry x="1030" y="45" width="56" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-71" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="1040" y="85" width="46" height="10" as="geometry" />
@@ -169,16 +169,16 @@
           <mxGeometry x="970" y="75" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-73" value="telegram" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="985" y="37" width="70" height="30" as="geometry" />
+          <mxGeometry x="968" y="37" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-74" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="45" width="34" height="10" as="geometry" />
+          <mxGeometry x="1087" y="85" width="34" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-75" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="1081" y="50" width="10" height="142" as="geometry" />
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-76" value="deskripsi" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1119" y="37" width="60" height="30" as="geometry" />
+          <mxGeometry x="1119" y="77" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-77" value="alamat" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="114" width="69" height="30" as="geometry" />
@@ -194,6 +194,17 @@
         </mxCell>
         <mxCell id="ggTeY2CvKrcmnO82u_cy-82" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="1050" y="122" width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ggTeY2CvKrcmnO82u_cy-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1239" y="212" as="sourcePoint" />
+            <mxPoint x="1140" y="211.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggTeY2CvKrcmnO82u_cy-85" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ggTeY2CvKrcmnO82u_cy-84">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="10" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
